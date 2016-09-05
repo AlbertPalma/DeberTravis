@@ -11,6 +11,8 @@ package travis;
  */
 public class Prueba {
     
+    private int numer, numer2;
+    
     public void mirar(){
         System.out.println("Mensaje111");
     }
